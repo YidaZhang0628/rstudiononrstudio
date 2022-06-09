@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of rstudiononrstudio is to have a different string manipulation package
+The goal of rstudiononrstudio is to have a different string manipulation package 
 
 ## Installation
 

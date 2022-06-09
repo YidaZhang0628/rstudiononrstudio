@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of rstudiononrstudio is to have a different string manipulation
+The goal of rstudiononrstudio is to have a updated string manipulation
 package
 
 ## Installation
