@@ -9,7 +9,7 @@
 The goal of rstudiononrstudio is to have a updated string manipulation
 package
 
-![test.](/home/yzhang/R_package_test/Github_package_test/rstudiononrstudio/docs/tv-test-image-card-rainbow-multi-color-bars-geometric-signals-retro-hardware-s-minimal-pop-art-print-suitable-89603635.jpeg)
+![test.](docs/tv-test-image-card-rainbow-multi-color-bars-geometric-signals-retro-hardware-s-minimal-pop-art-print-suitable-89603635.jpeg)
 
 ## Installation
 
