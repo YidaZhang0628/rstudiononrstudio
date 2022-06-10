@@ -12,3 +12,6 @@ A character vector
 \description{
 Hello world
 }
+\examples{
+hello
+}
