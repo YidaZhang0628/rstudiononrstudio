@@ -9,7 +9,7 @@
 The goal of rstudiononrstudio is to have a updated string manipulation
 package
 
-![test.](inst/tv-test-image-card-rainbow-multi-color-bars-geometric-signals-retro-hardware-s-minimal-pop-art-print-suitable-89603635.jpeg)
+![test.](inst/test.jpeg)
 
 ## Installation
 
@@ -65,5 +65,4 @@ files, so they display on GitHub and CRAN.
 
 ## Vignettes
 
--   [HTML
-    version](https://github.com/YidaZhang0628/rstudiononrstudio/blob/main/vignettes/my-vignette.html)
+-   [HTML version](vignettes/my-vignette.Rmd)
