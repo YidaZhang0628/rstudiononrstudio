@@ -1,3 +1,9 @@
+#' Hello world
+#'
+#' @return A character vector
+#' @export
+#'
+#' @examples
 hello <- function(){
   print("hello")
 }
