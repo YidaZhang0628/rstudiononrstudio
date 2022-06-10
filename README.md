@@ -62,3 +62,8 @@ You can also embed plots, for example:
 
 In that case, don’t forget to commit and push the resulting figure
 files, so they display on GitHub and CRAN.
+
+## Vignettes
+
+-   [HTML
+    version](https://github.com/YidaZhang0628/rstudiononrstudio/blob/main/vignettes/my-vignette.html)
