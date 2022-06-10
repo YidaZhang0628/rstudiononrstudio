@@ -63,3 +63,4 @@ In that case, don't forget to commit and push the resulting figure files, so the
 
 ## Vignettes
 * [HTML version](https://htmlpreview.github.io/?https://github.com/YidaZhang0628/rstudiononrstudio/blob/main/docs/my-vignette.html)
+* [HTML version2](https://htmlpreview.github.io/?https://github.com/YidaZhang0628/rstudiononrstudio/blob/main/docs/my-vignette2.html)

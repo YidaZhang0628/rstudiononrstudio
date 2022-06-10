@@ -67,3 +67,5 @@ files, so they display on GitHub and CRAN.
 
 -   [HTML
     version](https://htmlpreview.github.io/?https://github.com/YidaZhang0628/rstudiononrstudio/blob/main/docs/my-vignette.html)
+-   [HTML
+    version2](https://htmlpreview.github.io/?https://github.com/YidaZhang0628/rstudiononrstudio/blob/main/docs/my-vignette2.html)
