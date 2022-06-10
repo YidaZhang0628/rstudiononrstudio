@@ -4,6 +4,7 @@
 #' @export
 #'
 #' @examples
+#' hello
 hello <- function(){
   print("hello")
 }
