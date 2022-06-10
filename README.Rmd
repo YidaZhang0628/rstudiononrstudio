@@ -62,4 +62,4 @@ plot(pressure)
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
 
 ## Vignettes
-* [HTML version](vignettes/my-vignette.html)
+* [HTML version](https://htmlpreview.github.io/?https://github.com/YidaZhang0628/rstudiononrstudio/blob/main/docs/my-vignette.html)

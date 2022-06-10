@@ -65,4 +65,5 @@ files, so they display on GitHub and CRAN.
 
 ## Vignettes
 
--   [HTML version](vignettes/my-vignette.Rmd)
+-   [HTML
+    version](https://htmlpreview.github.io/?https://github.com/YidaZhang0628/rstudiononrstudio/blob/main/docs/my-vignette.html)
